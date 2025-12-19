@@ -1,0 +1,15 @@
+Test,Metric,Value,p_value
+Response_Length_TTest,t_statistic,-8.547880175984798,
+Response_Length_TTest,p_value,3.460729671351984e-06,
+Response_Length_TTest,mean_s1,12.23,
+Response_Length_TTest,mean_s2,53.128333333333345,
+Response_Length_TTest,std_s1,6.506389167579818,
+Response_Length_TTest,std_s2,9.339810728512889,
+Sentiment_ANOVA_C(Profession),F_value,0.7335575373445323,0.5436055576459311
+Sentiment_ANOVA_C(Dataset),F_value,0.019394297910401547,0.8905689386412701
+Sentiment_ANOVA_Residual,F_value,,
+Thematic_ChiSquare,chi2_statistic,42.50825729934449,
+Thematic_ChiSquare,p_value,2.652997409307202e-06,
+Thematic_ChiSquare,degrees_of_freedom,9.0,
+Theme_Correlation,pearson_r,0.46800897282641674,
+Theme_Correlation,p_value,0.17253660497125975,

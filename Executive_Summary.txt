@@ -1,0 +1,46 @@
+
+    ================================================================================
+    EXECUTIVE SUMMARY: AFGHAN RECONSTRUCTION STAKEHOLDER ANALYSIS
+    ================================================================================
+
+    DATA OVERVIEW:
+    --------------
+    • Survey 1 (Initial): 25 respondents
+    • Survey 2 (Follow-up): 25 respondents
+    • Professional Distribution Consistent: Both surveys maintain similar stakeholder composition
+
+    KEY FINDINGS:
+    -------------
+    1. THEMATIC CONSISTENCIES:
+       • Corruption remains the most frequently mentioned theme across both surveys
+       • Leadership and governance are consistently prioritized concerns
+       • International aid dependency is a persistent challenge
+
+    2. EVOLUTION IN PERSPECTIVES:
+       • Survey 2 shows increased specificity in corruption examples
+       • Greater emphasis on practical recommendations in follow-up responses
+       • More detailed case studies of project failures/successes
+
+    3. STATISTICAL SIGNIFICANCE:
+       • Response lengths: Significantly different
+       • Thematic patterns: Not significantly correlated
+       • Cluster analysis silhouette score: 0.603 (Good separation)
+
+    4. SENTIMENT ANALYSIS:
+       • Overall sentiment: More positive
+       • Professional differences: Not significant
+
+    METHODOLOGICAL CONTRIBUTIONS:
+    -----------------------------
+    1. Longitudinal Analysis: First study to track same stakeholders across time
+    2. Mixed Methods: Combines qualitative depth with quantitative rigor
+    3. Context-Specific Processing: Custom text processing for Afghan governance context
+
+    PRACTICAL IMPLICATIONS:
+    -----------------------
+    1. Policy Recommendations: Clear patterns in stakeholder suggestions
+    2. Intervention Design: Evidence-based approaches for future reconstruction
+    3. Monitoring Framework: Metrics for tracking governance improvements
+
+    ================================================================================
+    

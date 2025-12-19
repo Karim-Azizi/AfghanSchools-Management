@@ -1,0 +1,14 @@
+Dataset,Question,N_Responses,Mean_Words,Std_Words,Mean_Chars,Response_Rate
+Survey 1,Q3 Leader Qualities,25,3.0,0.0,41.32,100.0
+Survey 1,Q4 Trad vs Formal,25,5.0,0.0,82.8,100.0
+Survey 1,Q5 Aid Impact,25,7.0,0.0,94.0,100.0
+Survey 1,Q9 Internal Weaknesses,25,14.24,17.325772710040958,180.12,100.0
+Survey 1,Q10 Legitimacy Factor,25,10.68,8.201073100515567,120.88,100.0
+Survey 1,Q11 Reform Example,25,22.68,28.03529204413608,288.88,100.0
+Survey 1,Q12 Main Lesson,25,17.4,15.720050890502868,240.16,100.0
+Survey 1,Q13 Other Insight,25,17.84,19.255503109500932,259.24,100.0
+Survey 2,S2 Q1 Transnat Leader Example,25,71.48,83.86709485847236,919.32,100.0
+Survey 2,S2 Q2 Corruption Example,25,48.52,36.38694271301176,650.96,100.0
+Survey 2,S2 Q3 Formal Traditional Gap,25,51.52,32.971648427095666,670.32,100.0
+Survey 2,S2 Q4 Aid vs National Interest,25,46.08,25.81460051986085,621.36,100.0
+Survey 2,S2 Q5 Recommendation,24,48.041666666666664,30.86054542435841,701.8333333333334,96.0
